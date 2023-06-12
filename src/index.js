@@ -20,8 +20,9 @@ module.exports = {
     const mediaBuilder = strapi.plugin("upload").service("upload").mediaBuilder;
 
     mediaBuilder.deleteTransform("image.metadata");
+    mediaBuilder.deleteTransform("image.throttle");
     mediaBuilder.deleteTransform("image.optimize");
     mediaBuilder.deleteTransform("image.breakpoints");
-    mediaBuilder.deleteTransform("image.thubmnail");
+    mediaBuilder.deleteTransform("image.thumbnail");
   },
 };
