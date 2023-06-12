@@ -3319,9 +3319,9 @@ __metadata:
   languageName: node
   linkType: hard
 
-"@strapi/admin@npm:0.0.0-experimental.24daf10089824cdff9d2aec0b7249a3960adbc02":
-  version: 0.0.0-experimental.24daf10089824cdff9d2aec0b7249a3960adbc02
-  resolution: "@strapi/admin@npm:0.0.0-experimental.24daf10089824cdff9d2aec0b7249a3960adbc02"
+"@strapi/admin@npm:0.0.0-experimental.00c4c4259cc5043ff0f4cc10399ff19baf87ba23":
+  version: 0.0.0-experimental.00c4c4259cc5043ff0f4cc10399ff19baf87ba23
+  resolution: "@strapi/admin@npm:0.0.0-experimental.00c4c4259cc5043ff0f4cc10399ff19baf87ba23"
   dependencies:
     "@babel/core": ^7.20.12
     "@babel/plugin-transform-runtime": ^7.19.6
@@ -3331,15 +3331,15 @@ __metadata:
     "@casl/ability": ^5.4.3
     "@fingerprintjs/fingerprintjs": 3.4.1
     "@pmmmwh/react-refresh-webpack-plugin": 0.5.10
-    "@strapi/babel-plugin-switch-ee-ce": 0.0.0-experimental.24daf10089824cdff9d2aec0b7249a3960adbc02
-    "@strapi/data-transfer": 0.0.0-experimental.24daf10089824cdff9d2aec0b7249a3960adbc02
+    "@strapi/babel-plugin-switch-ee-ce": 0.0.0-experimental.00c4c4259cc5043ff0f4cc10399ff19baf87ba23
+    "@strapi/data-transfer": 0.0.0-experimental.00c4c4259cc5043ff0f4cc10399ff19baf87ba23
     "@strapi/design-system": 1.8.0
-    "@strapi/helper-plugin": 0.0.0-experimental.24daf10089824cdff9d2aec0b7249a3960adbc02
+    "@strapi/helper-plugin": 0.0.0-experimental.00c4c4259cc5043ff0f4cc10399ff19baf87ba23
     "@strapi/icons": 1.8.0
-    "@strapi/permissions": 0.0.0-experimental.24daf10089824cdff9d2aec0b7249a3960adbc02
-    "@strapi/provider-audit-logs-local": 0.0.0-experimental.24daf10089824cdff9d2aec0b7249a3960adbc02
-    "@strapi/typescript-utils": 0.0.0-experimental.24daf10089824cdff9d2aec0b7249a3960adbc02
-    "@strapi/utils": 0.0.0-experimental.24daf10089824cdff9d2aec0b7249a3960adbc02
+    "@strapi/permissions": 0.0.0-experimental.00c4c4259cc5043ff0f4cc10399ff19baf87ba23
+    "@strapi/provider-audit-logs-local": 0.0.0-experimental.00c4c4259cc5043ff0f4cc10399ff19baf87ba23
+    "@strapi/typescript-utils": 0.0.0-experimental.00c4c4259cc5043ff0f4cc10399ff19baf87ba23
+    "@strapi/utils": 0.0.0-experimental.00c4c4259cc5043ff0f4cc10399ff19baf87ba23
     axios: 1.4.0
     babel-loader: ^9.1.2
     babel-plugin-styled-components: 2.1.1
@@ -3421,27 +3421,27 @@ __metadata:
     yup: ^0.32.9
   peerDependencies:
     "@strapi/strapi": ^4.3.4
-  checksum: 578298a0332a111e21bc16402f6d830c364d0a776f4a235bfdde78e3691e38225a0d7ce518a0a40ef880b175c1ef5964a8b06239ad39a84342d4c19a75c4f98b
+  checksum: bcc6db0aa787a29394cec10d81979187419bc04a199cc982c1ee693adb0fc365714ed38d047ccb3dfc89b2036cdc9cf2bd2a7cd793a2734b74900e093fe1901e
   languageName: node
   linkType: hard
 
-"@strapi/babel-plugin-switch-ee-ce@npm:0.0.0-experimental.24daf10089824cdff9d2aec0b7249a3960adbc02":
-  version: 0.0.0-experimental.24daf10089824cdff9d2aec0b7249a3960adbc02
-  resolution: "@strapi/babel-plugin-switch-ee-ce@npm:0.0.0-experimental.24daf10089824cdff9d2aec0b7249a3960adbc02"
+"@strapi/babel-plugin-switch-ee-ce@npm:0.0.0-experimental.00c4c4259cc5043ff0f4cc10399ff19baf87ba23":
+  version: 0.0.0-experimental.00c4c4259cc5043ff0f4cc10399ff19baf87ba23
+  resolution: "@strapi/babel-plugin-switch-ee-ce@npm:0.0.0-experimental.00c4c4259cc5043ff0f4cc10399ff19baf87ba23"
   dependencies:
     "@babel/template": ^7.20.7
     reselect: 4.1.7
     resolve: 1.22.2
-  checksum: d3160289df71baf695f8936662557dc6d5c504a4e00ec1288a7b7cb8065c7d5373f7a10bf55046dc8b26e3735814dca57f7796ddbd7cfe73c54ec70f73d316e6
+  checksum: 0e38a952dd085c0557b967b06f5a09d92d862771bdefae9f2a94cada1d5886fc30e1143211d52725a506925d029d4585c50828b115b9136702c6e4f9e1819ffb
   languageName: node
   linkType: hard
 
-"@strapi/data-transfer@npm:0.0.0-experimental.24daf10089824cdff9d2aec0b7249a3960adbc02":
-  version: 0.0.0-experimental.24daf10089824cdff9d2aec0b7249a3960adbc02
-  resolution: "@strapi/data-transfer@npm:0.0.0-experimental.24daf10089824cdff9d2aec0b7249a3960adbc02"
+"@strapi/data-transfer@npm:0.0.0-experimental.00c4c4259cc5043ff0f4cc10399ff19baf87ba23":
+  version: 0.0.0-experimental.00c4c4259cc5043ff0f4cc10399ff19baf87ba23
+  resolution: "@strapi/data-transfer@npm:0.0.0-experimental.00c4c4259cc5043ff0f4cc10399ff19baf87ba23"
   dependencies:
-    "@strapi/logger": 0.0.0-experimental.24daf10089824cdff9d2aec0b7249a3960adbc02
-    "@strapi/strapi": 0.0.0-experimental.24daf10089824cdff9d2aec0b7249a3960adbc02
+    "@strapi/logger": 0.0.0-experimental.00c4c4259cc5043ff0f4cc10399ff19baf87ba23
+    "@strapi/strapi": 0.0.0-experimental.00c4c4259cc5043ff0f4cc10399ff19baf87ba23
     chalk: 4.1.2
     fs-extra: 10.0.0
     lodash: 4.17.21
@@ -3451,15 +3451,15 @@ __metadata:
     tar: 6.1.13
     tar-stream: 2.2.0
     ws: 8.13.0
-  checksum: 1c888c708eefd7e48ee9fbf3bdb42ddd2b96d06493a0bdd31e91f92b5a9386a828c4046763baebd280f72831ac78277c56de65f76219b07367b94c59752156da
+  checksum: b5cd13e6a9af1ab17abc231e747b627e9a4ce59b4635fb52c62d8eb043e24ea55da75721eb67be677e1396859fe56091fd77df616459820a3408c2eed1112b8a
   languageName: node
   linkType: hard
 
-"@strapi/database@npm:0.0.0-experimental.24daf10089824cdff9d2aec0b7249a3960adbc02":
-  version: 0.0.0-experimental.24daf10089824cdff9d2aec0b7249a3960adbc02
-  resolution: "@strapi/database@npm:0.0.0-experimental.24daf10089824cdff9d2aec0b7249a3960adbc02"
+"@strapi/database@npm:0.0.0-experimental.00c4c4259cc5043ff0f4cc10399ff19baf87ba23":
+  version: 0.0.0-experimental.00c4c4259cc5043ff0f4cc10399ff19baf87ba23
+  resolution: "@strapi/database@npm:0.0.0-experimental.00c4c4259cc5043ff0f4cc10399ff19baf87ba23"
   dependencies:
-    "@strapi/utils": 0.0.0-experimental.24daf10089824cdff9d2aec0b7249a3960adbc02
+    "@strapi/utils": 0.0.0-experimental.00c4c4259cc5043ff0f4cc10399ff19baf87ba23
     date-fns: 2.30.0
     debug: 4.3.4
     fs-extra: 10.0.0
@@ -3467,7 +3467,7 @@ __metadata:
     lodash: 4.17.21
     semver: 7.3.8
     umzug: 3.2.1
-  checksum: 97a8511855074f2a2eb9f9f18315269980cc06ced32d8f1b611fb13a273aa2fecd9cfcff68d90638751d9d44f0c3e13ce95c43a4062a5ab054147ecce7e9b916
+  checksum: c5dee7e9e76ca39955aaf30af2552e232c046524b11f1192650f779c253d9e145c65d80ab10f4bf714563bd6c651d6e2588dab0fc054091c04925bac242bab18
   languageName: node
   linkType: hard
 
@@ -3498,9 +3498,9 @@ __metadata:
   languageName: node
   linkType: hard
 
-"@strapi/generate-new@npm:0.0.0-experimental.24daf10089824cdff9d2aec0b7249a3960adbc02":
-  version: 0.0.0-experimental.24daf10089824cdff9d2aec0b7249a3960adbc02
-  resolution: "@strapi/generate-new@npm:0.0.0-experimental.24daf10089824cdff9d2aec0b7249a3960adbc02"
+"@strapi/generate-new@npm:0.0.0-experimental.00c4c4259cc5043ff0f4cc10399ff19baf87ba23":
+  version: 0.0.0-experimental.00c4c4259cc5043ff0f4cc10399ff19baf87ba23
+  resolution: "@strapi/generate-new@npm:0.0.0-experimental.00c4c4259cc5043ff0f4cc10399ff19baf87ba23"
   dependencies:
     "@sentry/node": 6.19.7
     chalk: ^4.1.2
@@ -3513,30 +3513,30 @@ __metadata:
     ora: ^5.4.1
     semver: 7.3.8
     tar: 6.1.13
-  checksum: 3a34dfd358ae33b3eeda685065bf751e81274cc9290c3a913ca87cb9a27aaace398dc8cdc42be61de666b55b6758f4e37d531797c1765c918c325a75ae1a0966
+  checksum: bee1418e16fd734c232179722c297065398d439e3b6730d168f0183fa2fd3e46b007451fd218884e0f9705bf7cdf19678ef5f5f2690194473bc2a289dd84b943
   languageName: node
   linkType: hard
 
-"@strapi/generators@npm:0.0.0-experimental.24daf10089824cdff9d2aec0b7249a3960adbc02":
-  version: 0.0.0-experimental.24daf10089824cdff9d2aec0b7249a3960adbc02
-  resolution: "@strapi/generators@npm:0.0.0-experimental.24daf10089824cdff9d2aec0b7249a3960adbc02"
+"@strapi/generators@npm:0.0.0-experimental.00c4c4259cc5043ff0f4cc10399ff19baf87ba23":
+  version: 0.0.0-experimental.00c4c4259cc5043ff0f4cc10399ff19baf87ba23
+  resolution: "@strapi/generators@npm:0.0.0-experimental.00c4c4259cc5043ff0f4cc10399ff19baf87ba23"
   dependencies:
     "@sindresorhus/slugify": 1.1.0
-    "@strapi/typescript-utils": 0.0.0-experimental.24daf10089824cdff9d2aec0b7249a3960adbc02
-    "@strapi/utils": 0.0.0-experimental.24daf10089824cdff9d2aec0b7249a3960adbc02
+    "@strapi/typescript-utils": 0.0.0-experimental.00c4c4259cc5043ff0f4cc10399ff19baf87ba23
+    "@strapi/utils": 0.0.0-experimental.00c4c4259cc5043ff0f4cc10399ff19baf87ba23
     chalk: 4.1.2
     copyfiles: 2.4.1
     fs-extra: 10.0.0
     node-plop: 0.26.3
     plop: 2.7.6
     pluralize: 8.0.0
-  checksum: e551f0ac572bb9899e7dabc6492902e9c46366675f43c1b75029b051de9e57b9cb8cce6bc00b86a5a582a58c6436f85157e317690bcdc8af2ed9c7bb10f67eb7
+  checksum: d2112ee5862e259cd79eb55a6cdfcbe558298352c7b3937ba8684f2bec029013f4cee2f0c06954e261d2085c625c6ae81d15bd56412f9e2583c90fa1d2fcf622
   languageName: node
   linkType: hard
 
-"@strapi/helper-plugin@npm:0.0.0-experimental.24daf10089824cdff9d2aec0b7249a3960adbc02":
-  version: 0.0.0-experimental.24daf10089824cdff9d2aec0b7249a3960adbc02
-  resolution: "@strapi/helper-plugin@npm:0.0.0-experimental.24daf10089824cdff9d2aec0b7249a3960adbc02"
+"@strapi/helper-plugin@npm:0.0.0-experimental.00c4c4259cc5043ff0f4cc10399ff19baf87ba23":
+  version: 0.0.0-experimental.00c4c4259cc5043ff0f4cc10399ff19baf87ba23
+  resolution: "@strapi/helper-plugin@npm:0.0.0-experimental.00c4c4259cc5043ff0f4cc10399ff19baf87ba23"
   dependencies:
     axios: 1.4.0
     date-fns: 2.30.0
@@ -3555,7 +3555,32 @@ __metadata:
     react-dom: ^17.0.0 || ^18.0.0
     react-router-dom: ^5.3.4
     styled-components: ^5.3.3
-  checksum: 6ad8c5e1724fe4788b181855249de0269e11a9bc1d951e7fdd924c12dfdc69d7fd53550ce64117699e7ef22a1c73a9df0e8d4984ce048a93ffcb53ea5f382a99
+  checksum: 5d54d56d129931581da0b338d4906e76e4ddea991058d7f835d0ea92fa2edff508ca785f73e650821f6002bc1fde024f0df12407bb4134168ff7d5718cb92844
+  languageName: node
+  linkType: hard
+
+"@strapi/helper-plugin@npm:4.11.0":
+  version: 4.11.0
+  resolution: "@strapi/helper-plugin@npm:4.11.0"
+  dependencies:
+    axios: 1.4.0
+    date-fns: 2.30.0
+    formik: ^2.4.0
+    immer: 9.0.19
+    lodash: 4.17.21
+    prop-types: ^15.8.1
+    qs: 6.11.1
+    react-helmet: ^6.1.0
+    react-intl: 6.4.1
+    react-select: 5.7.0
+  peerDependencies:
+    "@strapi/design-system": 1.8.0
+    "@strapi/icons": 1.8.0
+    react: ^17.0.0 || ^18.0.0
+    react-dom: ^17.0.0 || ^18.0.0
+    react-router-dom: ^5.3.4
+    styled-components: ^5.3.3
+  checksum: 1b451c00e7ee2a40b986fffb2ab6b0ba8d77c4d06b9ba1d5d0bfb430b06fc77e3e95bd5401ad173c9d2e3bf7b2f8cff2ea9d10216da97ae5b90acd4b3dddc6e5
   languageName: node
   linkType: hard
 
@@ -3569,49 +3594,49 @@ __metadata:
   languageName: node
   linkType: hard
 
-"@strapi/logger@npm:0.0.0-experimental.24daf10089824cdff9d2aec0b7249a3960adbc02":
-  version: 0.0.0-experimental.24daf10089824cdff9d2aec0b7249a3960adbc02
-  resolution: "@strapi/logger@npm:0.0.0-experimental.24daf10089824cdff9d2aec0b7249a3960adbc02"
+"@strapi/logger@npm:0.0.0-experimental.00c4c4259cc5043ff0f4cc10399ff19baf87ba23":
+  version: 0.0.0-experimental.00c4c4259cc5043ff0f4cc10399ff19baf87ba23
+  resolution: "@strapi/logger@npm:0.0.0-experimental.00c4c4259cc5043ff0f4cc10399ff19baf87ba23"
   dependencies:
     lodash: 4.17.21
     winston: 3.3.3
-  checksum: a7fed5ee43d547d0c8419659a0fc9c86e792de27d24ab14bf2b2d0b3ee900409466c68ccedade06e47a509489d84b547c70e7371bf6925ef78046960cd011690
+  checksum: e7fb5c11367ce7c9352b12e8e9643d326aeb23ec4846c11da4fbfddb7f6db47980dbc099a6ec322c3c9adb6110cad864f0f7c58866397b8be638ebc2df3553e0
   languageName: node
   linkType: hard
 
-"@strapi/permissions@npm:0.0.0-experimental.24daf10089824cdff9d2aec0b7249a3960adbc02":
-  version: 0.0.0-experimental.24daf10089824cdff9d2aec0b7249a3960adbc02
-  resolution: "@strapi/permissions@npm:0.0.0-experimental.24daf10089824cdff9d2aec0b7249a3960adbc02"
+"@strapi/permissions@npm:0.0.0-experimental.00c4c4259cc5043ff0f4cc10399ff19baf87ba23":
+  version: 0.0.0-experimental.00c4c4259cc5043ff0f4cc10399ff19baf87ba23
+  resolution: "@strapi/permissions@npm:0.0.0-experimental.00c4c4259cc5043ff0f4cc10399ff19baf87ba23"
   dependencies:
     "@casl/ability": 5.4.4
-    "@strapi/utils": 0.0.0-experimental.24daf10089824cdff9d2aec0b7249a3960adbc02
+    "@strapi/utils": 0.0.0-experimental.00c4c4259cc5043ff0f4cc10399ff19baf87ba23
     lodash: 4.17.21
     sift: 16.0.1
-  checksum: 5eb6a287e7d7ddb54f5ad14a57caf957dfb21100c462d285c1a0eb7d21146a27afa738b495216f164aa85a6acec518d8b3d679f63a37ca9bd7f82a561cddecd2
+  checksum: 787bd7a6990af05993b3ea50a401cc8163899677285261132cdb375ae4dbc535656fee34c36d1dc9d2fa4bd9fc9c24117e29c61f99dea6bc2979d7e6abe77fb8
   languageName: node
   linkType: hard
 
-"@strapi/plugin-content-manager@npm:0.0.0-experimental.24daf10089824cdff9d2aec0b7249a3960adbc02":
-  version: 0.0.0-experimental.24daf10089824cdff9d2aec0b7249a3960adbc02
-  resolution: "@strapi/plugin-content-manager@npm:0.0.0-experimental.24daf10089824cdff9d2aec0b7249a3960adbc02"
+"@strapi/plugin-content-manager@npm:0.0.0-experimental.00c4c4259cc5043ff0f4cc10399ff19baf87ba23":
+  version: 0.0.0-experimental.00c4c4259cc5043ff0f4cc10399ff19baf87ba23
+  resolution: "@strapi/plugin-content-manager@npm:0.0.0-experimental.00c4c4259cc5043ff0f4cc10399ff19baf87ba23"
   dependencies:
     "@sindresorhus/slugify": 1.1.0
-    "@strapi/utils": 0.0.0-experimental.24daf10089824cdff9d2aec0b7249a3960adbc02
+    "@strapi/utils": 0.0.0-experimental.00c4c4259cc5043ff0f4cc10399ff19baf87ba23
     lodash: 4.17.21
-  checksum: 2bb02d8e49ccc6e7cbee8937336a8b0148bfa8a2e9aeb20ec8eaea3cbd352de5a187877f657e20229fe269c8f9ef27a8ebb172452dcef9cca22d47c3a0bd8871
+  checksum: 31a011027b90100980bb1d4e58cb0928a80b14b4ac981011f1fc275573dd99eafa43922099b94526b52ecc6a905d8862f94fa7f0f3c18f03bafc90bbcbccbeeb
   languageName: node
   linkType: hard
 
-"@strapi/plugin-content-type-builder@npm:0.0.0-experimental.24daf10089824cdff9d2aec0b7249a3960adbc02":
-  version: 0.0.0-experimental.24daf10089824cdff9d2aec0b7249a3960adbc02
-  resolution: "@strapi/plugin-content-type-builder@npm:0.0.0-experimental.24daf10089824cdff9d2aec0b7249a3960adbc02"
+"@strapi/plugin-content-type-builder@npm:0.0.0-experimental.00c4c4259cc5043ff0f4cc10399ff19baf87ba23":
+  version: 0.0.0-experimental.00c4c4259cc5043ff0f4cc10399ff19baf87ba23
+  resolution: "@strapi/plugin-content-type-builder@npm:0.0.0-experimental.00c4c4259cc5043ff0f4cc10399ff19baf87ba23"
   dependencies:
     "@sindresorhus/slugify": 1.1.0
     "@strapi/design-system": 1.8.0
-    "@strapi/generators": 0.0.0-experimental.24daf10089824cdff9d2aec0b7249a3960adbc02
-    "@strapi/helper-plugin": 0.0.0-experimental.24daf10089824cdff9d2aec0b7249a3960adbc02
+    "@strapi/generators": 0.0.0-experimental.00c4c4259cc5043ff0f4cc10399ff19baf87ba23
+    "@strapi/helper-plugin": 0.0.0-experimental.00c4c4259cc5043ff0f4cc10399ff19baf87ba23
     "@strapi/icons": 1.8.0
-    "@strapi/utils": 0.0.0-experimental.24daf10089824cdff9d2aec0b7249a3960adbc02
+    "@strapi/utils": 0.0.0-experimental.00c4c4259cc5043ff0f4cc10399ff19baf87ba23
     fs-extra: 10.0.0
     immer: 9.0.19
     lodash: 4.17.21
@@ -3629,18 +3654,18 @@ __metadata:
     react-dom: ^17.0.0 || ^18.0.0
     react-router-dom: 5.3.4
     styled-components: 5.3.3
-  checksum: a2afb7ebc1ccb8b75a7c79667f3314aa3a4742b11ef242107ad521e7bb732d734dca9eeb62af4d1e4e5060fa5551d7bcf1b608d8adf902d603a63230bc53881d
+  checksum: e5d27732d21af0731d577cfb1fa6dbda99f75727c17a0c425e4ac20c5ac193fce1b50ee8dcf6488bb2db935b64f1599d9ee489b689195398aeabe18b98c437cb
   languageName: node
   linkType: hard
 
-"@strapi/plugin-email@npm:0.0.0-experimental.24daf10089824cdff9d2aec0b7249a3960adbc02":
-  version: 0.0.0-experimental.24daf10089824cdff9d2aec0b7249a3960adbc02
-  resolution: "@strapi/plugin-email@npm:0.0.0-experimental.24daf10089824cdff9d2aec0b7249a3960adbc02"
+"@strapi/plugin-email@npm:0.0.0-experimental.00c4c4259cc5043ff0f4cc10399ff19baf87ba23":
+  version: 0.0.0-experimental.00c4c4259cc5043ff0f4cc10399ff19baf87ba23
+  resolution: "@strapi/plugin-email@npm:0.0.0-experimental.00c4c4259cc5043ff0f4cc10399ff19baf87ba23"
   dependencies:
     "@strapi/design-system": 1.8.0
     "@strapi/icons": 1.8.0
-    "@strapi/provider-email-sendmail": 0.0.0-experimental.24daf10089824cdff9d2aec0b7249a3960adbc02
-    "@strapi/utils": 0.0.0-experimental.24daf10089824cdff9d2aec0b7249a3960adbc02
+    "@strapi/provider-email-sendmail": 0.0.0-experimental.00c4c4259cc5043ff0f4cc10399ff19baf87ba23
+    "@strapi/utils": 0.0.0-experimental.00c4c4259cc5043ff0f4cc10399ff19baf87ba23
     lodash: 4.17.21
     prop-types: ^15.8.1
     react-intl: 6.4.1
@@ -3650,18 +3675,18 @@ __metadata:
     react-dom: ^17.0.0 || ^18.0.0
     react-router-dom: 5.3.4
     styled-components: 5.3.3
-  checksum: b7409483ba43ab52ef51c9258da1bfec3f11f5bed07b217599c45227fb322d451b47d010c46bceee022c0655f6351f3da96ae94fc78879435d22a3aa4efeb8c2
+  checksum: 86a851839e169ab5237dabd9aec563af1a7ab35b1bb1799f4c73f889d6472c90c9322aa4cbce67efa930422214e4d754dab385895316a72c89ea6b29b059291f
   languageName: node
   linkType: hard
 
-"@strapi/plugin-i18n@npm:0.0.0-experimental.24daf10089824cdff9d2aec0b7249a3960adbc02":
-  version: 0.0.0-experimental.24daf10089824cdff9d2aec0b7249a3960adbc02
-  resolution: "@strapi/plugin-i18n@npm:0.0.0-experimental.24daf10089824cdff9d2aec0b7249a3960adbc02"
+"@strapi/plugin-i18n@npm:":
+  version: 4.11.0
+  resolution: "@strapi/plugin-i18n@npm:4.11.0"
   dependencies:
     "@strapi/design-system": 1.8.0
-    "@strapi/helper-plugin": 0.0.0-experimental.24daf10089824cdff9d2aec0b7249a3960adbc02
+    "@strapi/helper-plugin": 4.11.0
     "@strapi/icons": 1.8.0
-    "@strapi/utils": 0.0.0-experimental.24daf10089824cdff9d2aec0b7249a3960adbc02
+    "@strapi/utils": 4.11.0
     formik: 2.4.0
     immer: 9.0.19
     lodash: 4.17.21
@@ -3677,19 +3702,19 @@ __metadata:
     react-dom: ^17.0.0 || ^18.0.0
     react-router-dom: 5.3.4
     styled-components: 5.3.3
-  checksum: a23a46686e23e8f301a50392ddcb6c81b8cdd174fe9650717c1a2adaed33308fc21d11bb95c774307950664bb06539a40579d35966458fd3265e00c672863ca4
+  checksum: 015d5d3cfd2e009fdd3b7b42d5425c9eb38a8945d4209d722d74a56416b91ff35aac11811e238cbdf737856a39a451e278d39fc1f24f1aea3240168cc3f57842
   languageName: node
   linkType: hard
 
-"@strapi/plugin-upload@npm:0.0.0-experimental.24daf10089824cdff9d2aec0b7249a3960adbc02":
-  version: 0.0.0-experimental.24daf10089824cdff9d2aec0b7249a3960adbc02
-  resolution: "@strapi/plugin-upload@npm:0.0.0-experimental.24daf10089824cdff9d2aec0b7249a3960adbc02"
+"@strapi/plugin-upload@npm:0.0.0-experimental.00c4c4259cc5043ff0f4cc10399ff19baf87ba23":
+  version: 0.0.0-experimental.00c4c4259cc5043ff0f4cc10399ff19baf87ba23
+  resolution: "@strapi/plugin-upload@npm:0.0.0-experimental.00c4c4259cc5043ff0f4cc10399ff19baf87ba23"
   dependencies:
     "@strapi/design-system": 1.8.0
-    "@strapi/helper-plugin": 0.0.0-experimental.24daf10089824cdff9d2aec0b7249a3960adbc02
+    "@strapi/helper-plugin": 0.0.0-experimental.00c4c4259cc5043ff0f4cc10399ff19baf87ba23
     "@strapi/icons": 1.8.0
-    "@strapi/provider-upload-local": 0.0.0-experimental.24daf10089824cdff9d2aec0b7249a3960adbc02
-    "@strapi/utils": 0.0.0-experimental.24daf10089824cdff9d2aec0b7249a3960adbc02
+    "@strapi/provider-upload-local": 0.0.0-experimental.00c4c4259cc5043ff0f4cc10399ff19baf87ba23
+    "@strapi/utils": 0.0.0-experimental.00c4c4259cc5043ff0f4cc10399ff19baf87ba23
     axios: 1.4.0
     byte-size: 7.0.1
     cropperjs: 1.5.12
@@ -3718,18 +3743,18 @@ __metadata:
     react-dom: ^17.0.0 || ^18.0.0
     react-router-dom: 5.3.4
     styled-components: 5.3.3
-  checksum: 66741a977160e850c72c6d4dc697e06d04e6adfecc4944808fc3cae9d943ab193a4d678c3a90df1856fdde59207bf34e04a38a127434ba52c2176940241dc5eb
+  checksum: 6f091964903bbd3d782ff0f5ca1bdf071b854846323fa428b8a9f70434525ed8f9c9d934e3aac2226bd34be0cb92bf6267d3b691aaba060380d09f33458a8186
   languageName: node
   linkType: hard
 
-"@strapi/plugin-users-permissions@npm:0.0.0-experimental.24daf10089824cdff9d2aec0b7249a3960adbc02":
-  version: 0.0.0-experimental.24daf10089824cdff9d2aec0b7249a3960adbc02
-  resolution: "@strapi/plugin-users-permissions@npm:0.0.0-experimental.24daf10089824cdff9d2aec0b7249a3960adbc02"
+"@strapi/plugin-users-permissions@npm:0.0.0-experimental.00c4c4259cc5043ff0f4cc10399ff19baf87ba23":
+  version: 0.0.0-experimental.00c4c4259cc5043ff0f4cc10399ff19baf87ba23
+  resolution: "@strapi/plugin-users-permissions@npm:0.0.0-experimental.00c4c4259cc5043ff0f4cc10399ff19baf87ba23"
   dependencies:
     "@strapi/design-system": 1.8.0
-    "@strapi/helper-plugin": 0.0.0-experimental.24daf10089824cdff9d2aec0b7249a3960adbc02
+    "@strapi/helper-plugin": 0.0.0-experimental.00c4c4259cc5043ff0f4cc10399ff19baf87ba23
     "@strapi/icons": 1.8.0
-    "@strapi/utils": 0.0.0-experimental.24daf10089824cdff9d2aec0b7249a3960adbc02
+    "@strapi/utils": 0.0.0-experimental.00c4c4259cc5043ff0f4cc10399ff19baf87ba23
     bcryptjs: 2.4.3
     formik: 2.4.0
     grant-koa: 5.4.8
@@ -3751,69 +3776,69 @@ __metadata:
     react-dom: ^17.0.0 || ^18.0.0
     react-router-dom: 5.3.4
     styled-components: 5.3.3
-  checksum: f97f8318cbb401827b844cfacfefed821ecf64a60b3478cb46f046e669349c88748e2f605a1afea3958bb9fd563219ba68eaa7b14f7c46118ba4f8eb7999bf88
+  checksum: 4580f32fb97483f03dd03e3bab7716ac7d31dd0fec06698c370c9e595af101c9a66c0100f35a012a070e826c0bd7b016f769dfbc30695248dd8b2a95b83d38c0
   languageName: node
   linkType: hard
 
-"@strapi/provider-audit-logs-local@npm:0.0.0-experimental.24daf10089824cdff9d2aec0b7249a3960adbc02":
-  version: 0.0.0-experimental.24daf10089824cdff9d2aec0b7249a3960adbc02
-  resolution: "@strapi/provider-audit-logs-local@npm:0.0.0-experimental.24daf10089824cdff9d2aec0b7249a3960adbc02"
+"@strapi/provider-audit-logs-local@npm:0.0.0-experimental.00c4c4259cc5043ff0f4cc10399ff19baf87ba23":
+  version: 0.0.0-experimental.00c4c4259cc5043ff0f4cc10399ff19baf87ba23
+  resolution: "@strapi/provider-audit-logs-local@npm:0.0.0-experimental.00c4c4259cc5043ff0f4cc10399ff19baf87ba23"
   peerDependencies:
     "@strapi/strapi": ^4.9.0
-  checksum: c181a7d9178fb5b35a980dec7eb8fbc33a70a84c30a0975bdecd4821794e00e8914b5ac298bbdfce09028983bbcdd0f15bd9340fabff7bf17c3d1bcff67887eb
+  checksum: 47ac1ace0da3eff7b6564d856da18c30767fe3fbf84d678729ff0c27b25c658dafd74268a3b94a790f76d4b18456d2887f70e439913a2b4c0c7a1e3f5f4b3f41
   languageName: node
   linkType: hard
 
-"@strapi/provider-email-sendmail@npm:0.0.0-experimental.24daf10089824cdff9d2aec0b7249a3960adbc02":
-  version: 0.0.0-experimental.24daf10089824cdff9d2aec0b7249a3960adbc02
-  resolution: "@strapi/provider-email-sendmail@npm:0.0.0-experimental.24daf10089824cdff9d2aec0b7249a3960adbc02"
+"@strapi/provider-email-sendmail@npm:0.0.0-experimental.00c4c4259cc5043ff0f4cc10399ff19baf87ba23":
+  version: 0.0.0-experimental.00c4c4259cc5043ff0f4cc10399ff19baf87ba23
+  resolution: "@strapi/provider-email-sendmail@npm:0.0.0-experimental.00c4c4259cc5043ff0f4cc10399ff19baf87ba23"
   dependencies:
-    "@strapi/utils": 0.0.0-experimental.24daf10089824cdff9d2aec0b7249a3960adbc02
+    "@strapi/utils": 0.0.0-experimental.00c4c4259cc5043ff0f4cc10399ff19baf87ba23
     sendmail: ^1.6.1
-  checksum: 4bc9da42d4e76360ca16bb42b649218da6b6350bbc11ae99e2b74a4949da68384cd32c8092a5c1c9af9fa50ce076895c8c065f75bc18b6668a398f6da0325be9
+  checksum: 2299174d5703cec3321118058fc55ea02e8aee8b575e45177bbce3a8f0c3a1a51d4e8ae412049015dd0eb6d28929a547c401ec2dea3cba020f0d17e296fccfb1
   languageName: node
   linkType: hard
 
-"@strapi/provider-upload-cloudinary@npm:0.0.0-experimental.24daf10089824cdff9d2aec0b7249a3960adbc02":
-  version: 0.0.0-experimental.24daf10089824cdff9d2aec0b7249a3960adbc02
-  resolution: "@strapi/provider-upload-cloudinary@npm:0.0.0-experimental.24daf10089824cdff9d2aec0b7249a3960adbc02"
+"@strapi/provider-upload-cloudinary@npm:0.0.0-experimental.00c4c4259cc5043ff0f4cc10399ff19baf87ba23":
+  version: 0.0.0-experimental.00c4c4259cc5043ff0f4cc10399ff19baf87ba23
+  resolution: "@strapi/provider-upload-cloudinary@npm:0.0.0-experimental.00c4c4259cc5043ff0f4cc10399ff19baf87ba23"
   dependencies:
-    "@strapi/utils": 0.0.0-experimental.24daf10089824cdff9d2aec0b7249a3960adbc02
+    "@strapi/utils": 0.0.0-experimental.00c4c4259cc5043ff0f4cc10399ff19baf87ba23
     cloudinary: ^1.37.0
     into-stream: ^5.1.0
-  checksum: a87e09668094b8321bc83f31dd3026fde7f9fbe814a67a7a64f901021f20a420706b781e18d213b31d7956a27d973c0983383c51767cfd9ee29ad733c42ea923
+  checksum: efbfaa2a3695a16caa8ae10b9fcf02caf3af1e5148e987b58250b2a903e7191032a92676a028b55f13b5f0224aae489d3d4a90a29040282a6ebcfb57539d0b5d
   languageName: node
   linkType: hard
 
-"@strapi/provider-upload-local@npm:0.0.0-experimental.24daf10089824cdff9d2aec0b7249a3960adbc02":
-  version: 0.0.0-experimental.24daf10089824cdff9d2aec0b7249a3960adbc02
-  resolution: "@strapi/provider-upload-local@npm:0.0.0-experimental.24daf10089824cdff9d2aec0b7249a3960adbc02"
+"@strapi/provider-upload-local@npm:0.0.0-experimental.00c4c4259cc5043ff0f4cc10399ff19baf87ba23":
+  version: 0.0.0-experimental.00c4c4259cc5043ff0f4cc10399ff19baf87ba23
+  resolution: "@strapi/provider-upload-local@npm:0.0.0-experimental.00c4c4259cc5043ff0f4cc10399ff19baf87ba23"
   dependencies:
-    "@strapi/utils": 0.0.0-experimental.24daf10089824cdff9d2aec0b7249a3960adbc02
+    "@strapi/utils": 0.0.0-experimental.00c4c4259cc5043ff0f4cc10399ff19baf87ba23
     fs-extra: 10.0.0
-  checksum: 5ec50dfc54fa6a76300fc4ba6c9991ce82aaa854c2818f3a925a2953857eb72b810102f36eb2b5a345a6ff10ed22b2be01014b56fcb10d9c3d69fc120f0afd8d
+  checksum: f5faa535938ce636886534429929e7c366dbf569e4dec1f45cbd13f1e056e07edde3b9885d136b9af344a7d8d33e449cb0edb059eea406ac3ea3288db0cffd75
   languageName: node
   linkType: hard
 
-"@strapi/strapi@npm:0.0.0-experimental.24daf10089824cdff9d2aec0b7249a3960adbc02":
-  version: 0.0.0-experimental.24daf10089824cdff9d2aec0b7249a3960adbc02
-  resolution: "@strapi/strapi@npm:0.0.0-experimental.24daf10089824cdff9d2aec0b7249a3960adbc02"
+"@strapi/strapi@npm:0.0.0-experimental.00c4c4259cc5043ff0f4cc10399ff19baf87ba23":
+  version: 0.0.0-experimental.00c4c4259cc5043ff0f4cc10399ff19baf87ba23
+  resolution: "@strapi/strapi@npm:0.0.0-experimental.00c4c4259cc5043ff0f4cc10399ff19baf87ba23"
   dependencies:
     "@koa/cors": 3.4.3
     "@koa/router": 10.1.1
-    "@strapi/admin": 0.0.0-experimental.24daf10089824cdff9d2aec0b7249a3960adbc02
-    "@strapi/data-transfer": 0.0.0-experimental.24daf10089824cdff9d2aec0b7249a3960adbc02
-    "@strapi/database": 0.0.0-experimental.24daf10089824cdff9d2aec0b7249a3960adbc02
-    "@strapi/generate-new": 0.0.0-experimental.24daf10089824cdff9d2aec0b7249a3960adbc02
-    "@strapi/generators": 0.0.0-experimental.24daf10089824cdff9d2aec0b7249a3960adbc02
-    "@strapi/logger": 0.0.0-experimental.24daf10089824cdff9d2aec0b7249a3960adbc02
-    "@strapi/permissions": 0.0.0-experimental.24daf10089824cdff9d2aec0b7249a3960adbc02
-    "@strapi/plugin-content-manager": 0.0.0-experimental.24daf10089824cdff9d2aec0b7249a3960adbc02
-    "@strapi/plugin-content-type-builder": 0.0.0-experimental.24daf10089824cdff9d2aec0b7249a3960adbc02
-    "@strapi/plugin-email": 0.0.0-experimental.24daf10089824cdff9d2aec0b7249a3960adbc02
-    "@strapi/plugin-upload": 0.0.0-experimental.24daf10089824cdff9d2aec0b7249a3960adbc02
-    "@strapi/typescript-utils": 0.0.0-experimental.24daf10089824cdff9d2aec0b7249a3960adbc02
-    "@strapi/utils": 0.0.0-experimental.24daf10089824cdff9d2aec0b7249a3960adbc02
+    "@strapi/admin": 0.0.0-experimental.00c4c4259cc5043ff0f4cc10399ff19baf87ba23
+    "@strapi/data-transfer": 0.0.0-experimental.00c4c4259cc5043ff0f4cc10399ff19baf87ba23
+    "@strapi/database": 0.0.0-experimental.00c4c4259cc5043ff0f4cc10399ff19baf87ba23
+    "@strapi/generate-new": 0.0.0-experimental.00c4c4259cc5043ff0f4cc10399ff19baf87ba23
+    "@strapi/generators": 0.0.0-experimental.00c4c4259cc5043ff0f4cc10399ff19baf87ba23
+    "@strapi/logger": 0.0.0-experimental.00c4c4259cc5043ff0f4cc10399ff19baf87ba23
+    "@strapi/permissions": 0.0.0-experimental.00c4c4259cc5043ff0f4cc10399ff19baf87ba23
+    "@strapi/plugin-content-manager": 0.0.0-experimental.00c4c4259cc5043ff0f4cc10399ff19baf87ba23
+    "@strapi/plugin-content-type-builder": 0.0.0-experimental.00c4c4259cc5043ff0f4cc10399ff19baf87ba23
+    "@strapi/plugin-email": 0.0.0-experimental.00c4c4259cc5043ff0f4cc10399ff19baf87ba23
+    "@strapi/plugin-upload": 0.0.0-experimental.00c4c4259cc5043ff0f4cc10399ff19baf87ba23
+    "@strapi/typescript-utils": 0.0.0-experimental.00c4c4259cc5043ff0f4cc10399ff19baf87ba23
+    "@strapi/utils": 0.0.0-experimental.00c4c4259cc5043ff0f4cc10399ff19baf87ba23
     bcryptjs: 2.4.3
     boxen: 5.1.2
     chalk: 4.1.2
@@ -3855,13 +3880,13 @@ __metadata:
     statuses: 2.0.1
   bin:
     strapi: bin/strapi.js
-  checksum: da46486146dc2e3d04fb8819ef1c781c86ee89af291aedc77634aa7e14b23d384edc3a949e53f29bad3059a4247917cf158e954ddc67e6d5729cc878b48d7705
+  checksum: 52686663e79fb4c3bcbac08ca750c344d81c0b0725b089505b1ba977513f40a05a355d9c2f488f1211e6943c6fbcc751e0f0214e0a5ef83fdf65518cde89a113
   languageName: node
   linkType: hard
 
-"@strapi/typescript-utils@npm:0.0.0-experimental.24daf10089824cdff9d2aec0b7249a3960adbc02":
-  version: 0.0.0-experimental.24daf10089824cdff9d2aec0b7249a3960adbc02
-  resolution: "@strapi/typescript-utils@npm:0.0.0-experimental.24daf10089824cdff9d2aec0b7249a3960adbc02"
+"@strapi/typescript-utils@npm:0.0.0-experimental.00c4c4259cc5043ff0f4cc10399ff19baf87ba23":
+  version: 0.0.0-experimental.00c4c4259cc5043ff0f4cc10399ff19baf87ba23
+  resolution: "@strapi/typescript-utils@npm:0.0.0-experimental.00c4c4259cc5043ff0f4cc10399ff19baf87ba23"
   dependencies:
     chalk: 4.1.2
     cli-table3: 0.6.2
@@ -3869,7 +3894,7 @@ __metadata:
     lodash: 4.17.21
     prettier: 2.8.4
     typescript: 5.1.3
-  checksum: 69ab0e7be899578b3a40d1fbbff0ca40cf2d5196d876189af04ce803b03371ebb950211752a1a272ba8d0cfbff5ec75b30fb5a83a3029d7e39e93d4f7edde39b
+  checksum: 001472117c390b040fc6273cc8f341b114f371bb8822793f425078b75b72e3ce9e2e15fecb637af92456e975d8cfc6c18a571c6c8b09bfee7d77d281de9bf98a
   languageName: node
   linkType: hard
 
@@ -3905,9 +3930,9 @@ __metadata:
   languageName: node
   linkType: hard
 
-"@strapi/utils@npm:0.0.0-experimental.24daf10089824cdff9d2aec0b7249a3960adbc02":
-  version: 0.0.0-experimental.24daf10089824cdff9d2aec0b7249a3960adbc02
-  resolution: "@strapi/utils@npm:0.0.0-experimental.24daf10089824cdff9d2aec0b7249a3960adbc02"
+"@strapi/utils@npm:0.0.0-experimental.00c4c4259cc5043ff0f4cc10399ff19baf87ba23":
+  version: 0.0.0-experimental.00c4c4259cc5043ff0f4cc10399ff19baf87ba23
+  resolution: "@strapi/utils@npm:0.0.0-experimental.00c4c4259cc5043ff0f4cc10399ff19baf87ba23"
   dependencies:
     "@sindresorhus/slugify": 1.1.0
     date-fns: 2.30.0
@@ -3915,7 +3940,21 @@ __metadata:
     lodash: 4.17.21
     p-map: 4.0.0
     yup: 0.32.9
-  checksum: 345b6bcd1fce7067873312e135d83a55f1d5b3ea64ed15dac63359430f70a00259501f1a5aa109fe4361a2f47a588a389452b197741d4f918b9dc642e617b909
+  checksum: 52c540825e41b73bb5c7dd20a7f225ab75e71e2a3bd44696e27f4848300f46dffd1d5a15aeb0052aa88022a8770596dfce454c08a5f3a83dcfb3132461835338
+  languageName: node
+  linkType: hard
+
+"@strapi/utils@npm:4.11.0":
+  version: 4.11.0
+  resolution: "@strapi/utils@npm:4.11.0"
+  dependencies:
+    "@sindresorhus/slugify": 1.1.0
+    date-fns: 2.30.0
+    http-errors: 1.8.1
+    lodash: 4.17.21
+    p-map: 4.0.0
+    yup: 0.32.9
+  checksum: c05bb1e30ce81bee37eea73e2a5c44e24d889a04a8d07b8fcac0444f479e38e52e827e7eea9500241e74ee34643079947f9f074a2cd2381f7b0ab4555099390c
   languageName: node
   linkType: hard
 
@@ -13839,10 +13878,10 @@ __metadata:
   version: 0.0.0-use.local
   resolution: "strapi@workspace:."
   dependencies:
-    "@strapi/plugin-i18n": 0.0.0-experimental.24daf10089824cdff9d2aec0b7249a3960adbc02
-    "@strapi/plugin-users-permissions": 0.0.0-experimental.24daf10089824cdff9d2aec0b7249a3960adbc02
-    "@strapi/provider-upload-cloudinary": 0.0.0-experimental.24daf10089824cdff9d2aec0b7249a3960adbc02
-    "@strapi/strapi": 0.0.0-experimental.24daf10089824cdff9d2aec0b7249a3960adbc02
+    "@strapi/plugin-i18n": ""
+    "@strapi/plugin-users-permissions": 0.0.0-experimental.00c4c4259cc5043ff0f4cc10399ff19baf87ba23
+    "@strapi/provider-upload-cloudinary": 0.0.0-experimental.00c4c4259cc5043ff0f4cc10399ff19baf87ba23
+    "@strapi/strapi": 0.0.0-experimental.00c4c4259cc5043ff0f4cc10399ff19baf87ba23
     better-sqlite3: 8.0.1
     pg: 8.8.0
     sqlite3: 5.1.2

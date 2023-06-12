@@ -10,10 +10,10 @@
     "strapi": "strapi"
   },
   "dependencies": {
-    "@strapi/plugin-i18n": "0.0.0-experimental.24daf10089824cdff9d2aec0b7249a3960adbc02",
-    "@strapi/plugin-users-permissions": "0.0.0-experimental.24daf10089824cdff9d2aec0b7249a3960adbc02",
-    "@strapi/provider-upload-cloudinary": "0.0.0-experimental.24daf10089824cdff9d2aec0b7249a3960adbc02",
-    "@strapi/strapi": "0.0.0-experimental.24daf10089824cdff9d2aec0b7249a3960adbc02",
+    "@strapi/plugin-i18n": "",
+    "@strapi/plugin-users-permissions": "0.0.0-experimental.00c4c4259cc5043ff0f4cc10399ff19baf87ba23",
+    "@strapi/provider-upload-cloudinary": "0.0.0-experimental.00c4c4259cc5043ff0f4cc10399ff19baf87ba23",
+    "@strapi/strapi": "0.0.0-experimental.00c4c4259cc5043ff0f4cc10399ff19baf87ba23",
     "pg": "8.8.0"
   },
   "devDependencies": {
