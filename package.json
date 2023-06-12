@@ -16,6 +16,10 @@
     "@strapi/strapi": "0.0.0-experimental.7ad9b94c6c443aafe314bdba918a6275d40bfe55",
     "pg": "8.8.0"
   },
+  "devDependencies": {
+    "better-sqlite3": "8.0.1",
+    "sqlite3": "5.1.2"
+  },
   "author": {
     "name": "A Strapi developer"
   },
