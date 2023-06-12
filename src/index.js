@@ -16,7 +16,7 @@ module.exports = {
    * This gives you an opportunity to set up your data model,
    * run jobs, or perform some special logic.
    */
-  bootstrap(/*{ strapi }*/) {
+  async bootstrap(/*{ strapi }*/) {
     const mediaBuilder = strapi.plugin("upload").service("upload").mediaBuilder;
 
     mediaBuilder.deleteTransform("image.metadata");
@@ -24,5 +24,11 @@ module.exports = {
     mediaBuilder.deleteTransform("image.optimize");
     mediaBuilder.deleteTransform("image.breakpoints");
     mediaBuilder.deleteTransform("image.thumbnail");
+
+    const result = await strapi
+      .plugin("upload")
+      .service("upload")
+      .mediaBuilder.transform({ type: "jpg" });
+    console.log("Bootstraping...", result);
   },
 };
